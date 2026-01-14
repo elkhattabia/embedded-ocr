@@ -1,0 +1,46 @@
+## OS-specific
+Thumbs.db
+Desktop.ini
+
+## Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+## Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+## Logs and debug
+*.log
+
+## IDE / Editor settings
+.vscode/
+.idea/
+.spyproject/
+
+## Jupyter and IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+## Data and datasets
+data/
+Work/data/
+
+## Images and figures generated during experiments
+Work/*.png
+
+## Docker artifacts
+*.tar
+
+
